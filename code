@@ -50,7 +50,7 @@ function addBook() {
     let author = document.getElementById("author").value.trim();
     let year = document.getElementById("year").value.trim();
     
- if (!title  !author  !year) {
+ if (!title || !author || !year) {
         alert("Aizpildiet visus laukus!");
         return;
     }
