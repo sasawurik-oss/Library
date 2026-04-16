@@ -1,4 +1,5 @@
 Autors: Aleksandra Zavoloka
+
 Dokumentācija
 
 Šī programma tika izveidota lasītājiem, lai atvieglotu grāmatu saraksta izveidi, ko viņi vēlas lasīt.
